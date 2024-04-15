@@ -1,0 +1,14 @@
+{
+  "name": "tpscraping",
+  "version": "1.0.0",
+  "description": "projet scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "mmadi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.6.5"
+  }
+}
